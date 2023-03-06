@@ -1,4 +1,4 @@
-module github.com/vpukhanov/notes-exporter
+module github.com/vpukhanov/apple-notes-exporter
 
 go 1.20
 

@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/vpukhanov/notes-exporter/pb"
+	"github.com/vpukhanov/apple-notes-exporter/pb"
 	"google.golang.org/protobuf/proto"
 )
 

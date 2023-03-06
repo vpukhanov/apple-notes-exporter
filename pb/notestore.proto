@@ -1,7 +1,7 @@
 syntax = "proto2";
 package pb;
 
-option go_package = "github.com/vpukhanov/notes-exporter/pb";
+option go_package = "github.com/vpukhanov/apple-notes-exporter/pb";
 
 // Originally compiled by Three Planets Software
 // https://github.com/threeplanetssoftware/apple_cloud_notes_parser/blob/master/LICENSE
